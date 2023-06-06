@@ -91,7 +91,7 @@ export default App;
 }
 ```
 
-<span style='color: orange; font-size: 23px'>CSS | object-fit</span>
+## CSS | object-fit
 
 대체되는 요소의 내용(img, video, object, svg 태그 등과 같은)이 지정된 너비와 높이에 맞게 장착되는 방식을 지정한다.
 <br/>
@@ -103,7 +103,7 @@ export default App;
 <br/>
 <br/>
 
-<span style='color: orange; font-size: 23px'>FileReader</span>
+## FileReader
 
 기본적으로 FileReader는 File, Blob 객체를 핸들링하는데 사용된다.
 <br/>
@@ -113,14 +113,14 @@ File, Blob 객체를 사용해 특정 파일을 읽어들여 자바스크립트�
 <br/>
 <br/>
 
-<span style='color: pink; font-size: 18px'>readAsDataURL</span>
+### readAsDataURL
 
 readAsDataURL을 통해 파일을 URL로 만들 수 있다. 파일 정보를 주소처럼 사용할 수 있게 된다.
 
 <br/>
 <br/>
 
-<span style='color: pink; font-size: 18px'>onload</span>
+### onload
 
 FileReader가 성공적으로 파일을 읽어들였을 때 트리거 되는 이벤트 핸들러이다.
 이 핸들러 내부에 우리가 원하는 이미지 프리뷰 로직을 넣어주면 된다.
