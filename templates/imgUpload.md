@@ -5,8 +5,8 @@
 
 ## 기능 구현
 
-<a href="#"><img src="https://github.com/eunbaming/weather-app/assets/110072947/228b436f-81d0-4c58-bba4-7f0a05fbee41"></a>
-<a href="#"><img src="https://github.com/eunbaming/weather-app/assets/110072947/08bcbc88-2916-496c-a888-97c01157cb5e"></a>
+<a href="#"><img src="https://github.com/eunbaming/weather-app/assets/110072947/228b436f-81d0-4c58-bba4-7f0a05fbee41" style="width: 400px; height: 300px"></a>
+<a href="#"><img src="https://github.com/eunbaming/weather-app/assets/110072947/08bcbc88-2916-496c-a888-97c01157cb5e" style="width: 400px; height: 300px"></a>
 
 <br/>
 
